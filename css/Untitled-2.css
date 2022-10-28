@@ -1,0 +1,123 @@
+@charset "utf-8";
+body{font-family:"微软雅黑";}
+*{margin:0; padding:0; list-style:none;}
+li{list-style:none;}
+a{text-decoration:none; color:#FFF;}
+img{border:none;}
+.boss{width:100%;height:auto; margin:0 auto; }
+
+.div1{margin:0 auto;background:#462f3a;}
+.div1a{width:auto;height:65px;margin:0 auto; width:1200px;}
+.div1aa{float:left; margin:10px 0 0 30px;}
+.div1ab{float:left; margin:10px 0 0 300px;}
+.div1ac{float:right; width:200px; height:60px;color:#FFF;}
+.div1ac li{width:55px;float:left; margin:22px 0 0 5px;border-left:solid #FFF 1px; text-align:center; display:block;}
+.div1ac li a{font-size:12px;}
+
+.div2{ margin:0 auto;}
+.div2a{width:auto;height:115px;margin:0 auto; width:1200px}
+.div2aa{float:left; margin:20px 0 0 20px;}
+.div2ab{float:right;margin:40px 23px 0 0; position:relative;}
+.div2ab input{ width:350px;line-height:35px; font-size:25px; font-family:"微软雅黑"; }
+.div2ab img{position:absolute; top:8px; right:20px}
+
+.div3{margin:0 auto; background:url(../images/top/top5.jpg) repeat;}
+.div3a{width:auto; width:1200px; height:70px; margin:0 auto;}
+.div3a li{float:left; text-align:center; width:120px; line-height:70px; }
+.div3a li a:hover{font-weight:bold;}
+
+.div4{margin:0 auto;}
+.div4a{margin:0 auto;min-width:1200px; width:auto; max-width:1920px;}
+.div4a li{ float:left;left:0; top:0;}
+.div4a li img{height:471px; width:100%;}
+.div5{margin:0 auto;}
+.div5a{margin:0 auto;width:1200px; margin-top:20px; height:475px;}
+.div5aa{width:335px;height:475px;float:left; position:relative;}
+.div5aaa{width:335px;height:150px;background:rgba(204,102,0,0.5);position:absolute;bottom:0px;text-align:center; font-size:14px;}
+.div5aaaa{width:100px; height:20px;position:absolute;bottom:0; left:110px;}
+.a1{width:10px; height:10px; background:#FFF; display:block; float:left; border-radius:5px 5px 5px 5px; margin-left:10px; cursor:pointer;}
+
+.div5ab{width:505px;height:475px;float:left; margin-left:20px;}
+.div5aba{width:505px; height:40px; font-size:30px; color:#F00; border-bottom:solid 2px #996633;}
+.div5abb{width:505px; height:224px; border-bottom:dashed 1px #996600;}
+.div5abc li{line-height:33px;}
+.div5abc li a{color:#502f10; font-size:12px;}
+.div5abc li a:hover{color:#000;font-weight:bold;}
+.div5a1{margin-top:10px;}
+.div5a1{margin-top:10px;}
+.div5a1 a{color:#502f10; font-size:12px;}
+.div5a1 a:hover{color:#000;font-weight:bold;}
+.div5ac{width:300px;height:475px;float:right;}
+.div5ac table{width:300px;line-height:50px;text-align:center; color:#FFF;}
+.table{width:300px;}
+table td{ width:95px; line-height:34px; text-align:center; font-size:14px; color:#FFF; background:#87bc3f;}
+.div5ad{width:300px; height:170px; background:#ebe9e5;}
+.a2{width:98px; float:left; height:80px;background:url(../images/4.png) no-repeat 30px 10px;border-right:#960 1px solid; margin-top:20px;}
+.a3{width:98px; float:left; height:80px;background:url(../images/4.png) no-repeat -65px 10px;border-right:#960 1px solid; margin-top:20px;}
+.a4{width:98px; float:left; height:80px;background:url(../images/4.png) no-repeat -165px 10px; margin-top:20px;}
+.a2:hover{background:url(../images/3.png) no-repeat 30px 10px;}
+.a3:hover{background:url(../images/3.png) no-repeat -65px 10px}
+.a4:hover{background:url(../images/3.png) no-repeat -165px 10px;}
+.a2 p{display:block; padding-top:60px; text-align:center; color:#806748; font-weight:bold;}
+.a3 p{display:block; padding-top:60px; text-align:center; color:#806748; font-weight:bold;}
+.a4 p{display:block; padding-top:60px; text-align:center; color:#806748; font-weight:bold;}
+.a5 input{width:180px; height:28px; margin-top:20px; margin-left:20px; float:left;}
+.a5a{float:right;width:80px; line-height:30px; text-align:center; margin-top:20px; background:#806748; font-weight:bold; margin-right:16px; font-size:14px;}
+.div5adc{width:300px; height:53px; background:#87bc3f;}
+.w{clear:both;}
+
+.div6{margin:0 auto;}
+.div6a{width:1200px; height:470px; margin:0 auto; margin-top:20px;}
+.div6aa{ height:435px; width:340px; float:left;}
+.div6aa li{line-height:30px; width:434px;}
+.div6aa li a{color:#502f10; font-size:12px;}
+.div6aa li a:hover{ font-weight:bold;color:#000;}
+.div6aaa{width:340px; height:35px; font-weight:bold; border-bottom:2px solid #960;}
+.div6ab{width:500px; height:435px; float:left; margin-left:20px;}
+.div6aba{width:500px; height:150px;}
+.div6abb li{line-height:30px; width:500px;}
+.div6abb li a{color:#502f10; font-size:12px;}
+.div6abb li a:hover{ font-weight:bold;color:#000;}
+
+.div6ac{width:300px; height:435px; float:right;overflow:hidden;position:relative;}
+.div6aca{width:600px; height:142px;}
+.div6aca a img{float:left;}
+.left{width:50px; line-height:40px; text-align:center;position:absolute; display:none;background:rgba(255,255,255,0.5); top:85px; font-size:24px; font-weight:bold;}
+#zuo{left:1px;}
+#you{right:1px;}
+.div6aca:hover .left{display:block;cursor:pointer;}
+.div6acb{width:300px; height:300px;}
+.div6acb li{width:300px; line-height:32px; border-bottom:#CCC solid 1px;}
+.div6acb li a{color:#000; font-size:14px;}
+.div6acb li a:hover{font-weight:bold; text-decoration:underline;}
+
+.div7{margin:0 auto; background:#c6ebf4;}
+.div7a{width:1200px; height:940px; margin:0 auto;}
+.div7aa{margin:0 auto; width:92px; height:50px;}
+.div7ab{width:1200px; height:540px; margin-top:200px;}
+
+.div8{margin:0 auto;}
+.div8a{width:1200px; height:980px; margin:0 auto;}
+.div8a1{width:100px; line-height:60px; color:#00cccc; border-bottom:#00cccc solid 2px; text-align:center; font-size:20px; float:left;}
+.div8a span{width:1098px; height:60px; border-bottom:#999999 solid 2px; display:block;float:right;}
+.div8a2{width:1200px; height:390px; margin-top:20px;}
+.div8aa{width:1200px; height:400px; margin-top:20px;}	
+.div8aa1{width:300px; height:400px; float:left;}
+.div8aa2{width:890px; height:400px; float:right;}
+.div8aa3{width:890px; height:195px; float:left; }
+.div8aa3 img{margin-left:10px;}
+
+.div9{margin:0 auto;}
+.div9a{width:1200px; height:110px;margin:0 auto;border-bottom:#999999 solid 2px; border-top:#999999 solid 2px;}
+.div9a img{margin-left:60px;}
+
+.div10{margin:0 auto;}
+.div10{width:1200px; height:250px; margin:0 auto; background:#cccccc;}
+.div10a1{width:1020px; height:20px; margin:0 auto;}
+.div10a1 li{float:left; width:100px; line-height:20px; border-left:#000 solid 2px; text-align:center; margin-top:20px;}
+.div10a1 li a{color:#000; font-weight:bold;}
+.div10a img{margin:20px 25px 0 0;}
+.div11{margin:0 auto; width:950px;}
+
+
+	/* CSS Document */
